@@ -1,0 +1,7 @@
+.git
+.tools
+data
+test-output
+node_modules
+*.zip
+*.tar.gz
